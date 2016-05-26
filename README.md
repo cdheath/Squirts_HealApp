@@ -1,8 +1,6 @@
 # Squirts
 
-A well-known indie game implemented in JavaScript, made in a hotel room in Warsaw, Poland.
-
-[Play it here](http://is.gd/squirts)
+Base game was created by Klemen Slavič and Marko Novak and hosted on git at https://github.com/KrofDrakula/squirts.  The game will be modified to be used as a motivational incentive for an mHealth app for a research study. 
 
 ## Build
 
@@ -24,7 +22,7 @@ If you'd like to continuously update the game while hacking on the code, run the
 ./node_modules/.bin/grunt watch
 ```
 
-## MIT Licensed
+## MIT Licensed For Original Squirts
 
 Copyright (c) 2012+ Klemen Slavič and Marko Novak
 
